@@ -155,7 +155,6 @@ public class SimpleMenu implements Menu {
         menu.add("Сходить в магазин", "Купить продукты", stubAction);
         menu.add("Купить продукты", "Купить хлеб", stubAction);
         menu.add("Купить продукты", "Купить молоко", stubAction);
-//        System.out.println(menu.select("Купить продукты").get().getChildren());
 
         MenuPrinter printer = new Printer();
         printer.print(menu);

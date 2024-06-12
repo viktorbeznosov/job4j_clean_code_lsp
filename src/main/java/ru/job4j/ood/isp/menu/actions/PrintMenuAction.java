@@ -1,6 +1,5 @@
 package ru.job4j.ood.isp.menu.actions;
 
-import ru.job4j.ood.isp.menu.Input;
 import ru.job4j.ood.isp.menu.Menu;
 import ru.job4j.ood.isp.menu.MenuPrinter;
 import ru.job4j.ood.isp.menu.Printer;
